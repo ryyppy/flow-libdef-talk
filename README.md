@@ -23,3 +23,7 @@ There are two ways to vendor flow typings for your third party modules. In this 
 npm install
 ./node_modules/.bin/flow check
 ```
+
+**Presented on...**
+
+* ReactJS-Berlin (12th December 2016)
